@@ -114,6 +114,52 @@ An Awesome List of Celestia Resources
 
 ## Node operator contributions
 
+### [POSTHUMAN](https://posthuman.digital/)
+
+### Technical Contributions
+#### Mainnet
+##### [Services for Celestia](https://nodes.posthuman.digital/chains/celestia)
+- [Instalation guide](https://nodes.posthuman.digital/chains/celestia?tab=installation-guide)
+- [State Sync](https://nodes.posthuman.digital/chains/celestia?tab=state-sync)
+- [Bridge Node Setup](https://nodes.posthuman.digital/chains/celestia?tab=bridge-node-setup)
+- [Full Node Setup](https://nodes.posthuman.digital/chains/celestia?tab=full-node-setup)
+- [Light Node Setup](https://nodes.posthuman.digital/chains/celestia?tab=light-node-setup)
+- [Snapshot](https://nodes.posthuman.digital/chains/celestia?tab=snapshots)
+- [One Liner](https://nodes.posthuman.digital/chains/celestia?tab=one-liner)
+
+##### Endpoints
+- RPC: https://rpc.celestia-mainnet.posthuman.digital
+- REST: https://rest.celestia-mainnet.posthuman.digital
+- gRPC: https://grpc.celestia-mainnet.posthuman.digital
+- peer: cd9f852141cd6f78e9443cea389911a6f0a5df72@8.52.247.252:26656
+
+##### Block Explorer
+- https://explorer.posthuman.digital/celestia (in the process of the development)
+
+
+#### Testnet
+##### [Services for Celestia testnet](https://nodes.posthuman.digital/chains/celestia](https://nodes.posthuman.digital/chains/celestia-testnet)
+- [Instalation guide](https://nodes.posthuman.digital/chains/celestia-testnet?tab=installation-guide)
+- [State Sync](https://nodes.posthuman.digital/chains/celestia-testnet?tab=state-sync)
+- [Bridge Node Setup](https://nodes.posthuman.digital/chains/celestia-testnet?tab=bridge-node-setup)
+- [Full Node Setup](https://nodes.posthuman.digital/chains/celestia-testnet?tab=full-node-setup)
+- [Light Node Setup](https://nodes.posthuman.digital/chains/celestia-testnet?tab=light-node-setup)
+- [Snapshot](https://nodes.posthuman.digital/chains/celestia-testnet?tab=snapshots)
+- [One Liner](https://nodes.posthuman.digital/chains/celestia-testnet?tab=one-liner)
+
+##### Testnet Endpoints
+- RPC: https://rpc.celestia-testnet.posthuman.digital
+- REST: https://rest.celestia-testnet.posthuman.digital
+- gRPC: https://grpc.celestia-testnet.posthuman.digital
+- peer: f57805e824e984467f8b1f2560a5ef4c80077ed5@207.121.49.100:11656
+
+##### Testnet Block Explorer
+- https://explorer.posthuman.digital/celestia-testnet (in the process of the development)
+
+### Humanitarian Contributions 
+It's too big list, that can be found [here](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Celestia.md) in the tab "Community and Marketing"
+---
+
 ### [StakingCabin](https://stakingcabin.com)
 #### Mainnet
 ##### [Services(Snapshot, State-sync, Installation Guide)](https://www.stakingcabin.com/service/celestia)
