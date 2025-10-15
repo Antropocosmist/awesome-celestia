@@ -156,8 +156,8 @@ An Awesome List of Celestia Resources
 ##### Testnet Block Explorer
 - https://explorer.posthuman.digital/celestia-testnet (in the process of the development)
 
-### Humanitarian Contributions 
-It's too big list, that can be found [here](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Celestia.md) in the tab "Community and Marketing"
+### Community and Marketing Contributions 
+It's too big list, that can be found [here](https://github.com/Validator-POSTHUMAN/contributions/blob/main/Celestia.md) in the tab "Humanitarian Contributions"
 ---
 
 ### [StakingCabin](https://stakingcabin.com)
